@@ -1,5 +1,6 @@
+package curso.java.ejerciciodos;
 
-public class Main {
+public class CalcularPrecioIva {
     public static void main(String[] args) {
         double precio = 220.20;
 
